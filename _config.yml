@@ -98,13 +98,13 @@ analytics:
 author:
   name             : "Theodor Augustin Dumitrescu"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Jakarta EE Ambassador | Java and JakartaEE enthusiast | Fighting against software entropy, drinking green tea. BTW I use Arch"
+  bio              : "Java and JakartaEE enthusiast. Fighting against software entropy, drinking green tea. BTW I use Arch"
   location         : "Europe"
   email            : "thadumi@outlook.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:thadumi@outlook.com"
+      # url: "mailto:thadumi@outlook.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://thadumi.com"
