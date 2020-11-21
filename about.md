@@ -25,8 +25,6 @@ titles:
   # @end locale config
 key: page-about
 ---
-# Hello
-
 My name is Theodor Augustin Dumitrescu. I'm a software developer, and JakartaEE Ambassador, settled on Earth.
 
 I'm a Java and Linux fanatic. At the moment my main hobbies are contributing to JakartaEE, blogging about software development, hanging out in World of Warcraft. I also love teaching programming in schools and CoderDojos.
