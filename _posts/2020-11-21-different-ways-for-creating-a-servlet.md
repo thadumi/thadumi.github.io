@@ -1,7 +1,6 @@
 ---
 title: Different ways for creating a Servlet 
 tags: Java JakartaEE
-category: JakartaEE
 ---
 
 In a Web Application a Servlet can be defined in three ways:

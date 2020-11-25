@@ -217,9 +217,9 @@ defaults:
 
 
 feed:
-  categories:
-    - JakartaEE
-    - Java
+#  categories:
+#    - JakartaEE
+  tags: true
 
 ## => Plugins
 ##############################
