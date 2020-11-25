@@ -31,4 +31,4 @@ I'm a Java and Linux fanatic. At the moment my main hobbies are contributing to 
 
 
 ## Past talks
-- (Vavr: how to make Java more functional)[https://sessionize.com/s/dumitrescu-theodor/vavr_how_to_make_java_more_function/24102] at (workingsoftware2019)[https://www.agilemovement.it/workingsoftware/]
+- [Vavr: how to make Java more functional](https://sessionize.com/s/dumitrescu-theodor/vavr_how_to_make_java_more_function/24102) at [workingsoftware2019](https://www.agilemovement.it/workingsoftware/)
