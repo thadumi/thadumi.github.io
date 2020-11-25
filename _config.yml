@@ -216,6 +216,11 @@ defaults:
       pageview: true
 
 
+feed:
+  categories:
+    - JakartaEE
+    - Java
+
 ## => Plugins
 ##############################
 plugins:
