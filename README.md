@@ -1,6 +1,6 @@
 # Theodor Augustin Dumitrescu's blog
 
-The website (thadumi.com) is powered by Github Pages, and a customization of the theme [jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme) developed by Tian Qi.
+My website [blog.thadumi.com](https://blog.thadumi.com) is powered by Github Pages, and a customization of the theme [jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme) developed by Tian Qi.
 
 
 # License 
